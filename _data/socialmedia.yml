@@ -1,0 +1,9 @@
+- name: Facebook
+  url: https://www.facebook.com/alinareichert96/
+  class: icon-facebook
+  title: "Rennberichte und mehr"
+
+- name: Instagram
+  url: https://www.instagram.com/_alina_reichert/
+  class: icon-instagram
+  title: "Aktuelle Einblicke in mein Training"
