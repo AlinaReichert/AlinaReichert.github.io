@@ -1,0 +1,14 @@
+title: Alina Reichert 
+slogan: Radrennfahrerin zwischen Straße, MTB und Cyclocross
+description: Meine Reise quer durch die unterschiedlichen Disziplinen des Radsports 
+
+credits: '<p>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>'
+
+# URL to the images directory making
+urlimg: 'https://AlinaReichert.github.io/images/'
+
+
+# Logo size is 600x80 pixels
+logo: "IMG_7847.JPG"
+
+theme: jekyll-theme-primer
