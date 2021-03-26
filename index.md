@@ -2,9 +2,8 @@
 layout: default
 ---
 
-{% include image-home.md %}
+{% include IMG_7847.JPG %}
 
 <br>
 
 {% include blog-leonding.md %}
-

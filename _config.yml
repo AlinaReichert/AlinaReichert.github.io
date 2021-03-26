@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 title: Alina Reichert 
 slogan: Radrennfahrerin zwischen Straße, MTB und Cyclocross
 description: Meine Reise quer durch die unterschiedlichen Disziplinen des Radsports 
@@ -11,4 +12,7 @@ urlimg: 'https://AlinaReichert.github.io/images/'
 # Logo size is 600x80 pixels
 logo: "IMG_7847.JPG"
 
+=======
+title: Alina Reichert - Straße, MTB, Cyclocross
+>>>>>>> 4d97ebe679070216f302b279a8caea2a8c331667
 theme: jekyll-theme-primer
